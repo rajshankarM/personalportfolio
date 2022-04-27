@@ -29,18 +29,12 @@ const About = () => {
                   <h5>Project</h5>
                   <small>4+ FullStack</small>
                 </article>
-
-                {/* <article className="about__card">
-                  <FaAward className='about__icon'/>
-                  <h5>Experience</h5>
-                  <small>3+ Months Learning In Guvi IITM</small>
-                </article> */}
               </div>
 
               <p>
-              Hello! I am a Fresher from Chennai, having good knowledge in Webdevelopment and always ready to learn new technologies.<br></br>
+              Hello! I am a Fresher from Chennai, having good knowledge in Web development and always ready to learn new technologies.<br></br>
               Dedicated to creating and optimizing interactive, user-friendly and feature-rich web applications, <br></br>
-              Exposure to both Front-end amd Back-end web development
+              Exposure to both Front-end and Back-end web development.
               </p>
 
               <a href="#contact" className='btn btn-primary'>Let's Talk</a>
