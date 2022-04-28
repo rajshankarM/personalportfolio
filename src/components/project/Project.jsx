@@ -1,9 +1,9 @@
 import React from 'react'
 import './project.css'
-import IMG1 from '../../assest/portfolio1.jpg'
+import IMG1 from '../../assest/chat.jpg'
 import IMG2 from '../../assest/portfolio2.jpg'
 import IMG3 from '../../assest/portfolio3.jpg'
-import IMG4 from '../../assest/portfolio4.jpg'
+import IMG4 from '../../assest/auth.jpg'
 
 const Project = () => {
   return (
