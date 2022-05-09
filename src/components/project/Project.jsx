@@ -18,9 +18,9 @@ const Project = () => {
             </div>
             <h3>Chat App</h3>
               <div className='project__item-cta'>
-              <a href="https://github.com/rajshankarM/chat-frontend" className='btn' target='_blank'>GitHub</a>
-            <a href="https://github.com/rajshankarM/server" className='btn' target='_blank'>GitHub</a>
-            <a href="https://shanchat.netlify.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
+              <a href="https://github.com/rajshankarM/chat-frontend" className='btn' target='_blank'>FrontEnd</a>
+            <a href="https://github.com/rajshankarM/server" className='btn' target='_blank'>BackEnd</a>
+            <a href="https://shanchat.netlify.app/" className='btn btn-primary' target='_blank'>Live</a>
               </div>
               <div>
              <h3>Description :</h3>
@@ -35,9 +35,9 @@ const Project = () => {
             </div>
             <h3>Bike Rent Portal</h3>
            <div className='project__item-cta'>
-           <a href="https://github.com/rajshankarM/bike-rent" className='btn' target='_blank'>GitHub</a>
-            <a href="https://github.com/rajshankarM/bike-rent" className='btn' target='_blank'>GitHub</a>
-            <a href="https://ssrental.netlify.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
+           <a href="https://github.com/rajshankarM/bike-rent" className='btn' target='_blank'>FrontEnd</a>
+            <a href="https://github.com/rajshankarM/bike-rent" className='btn' target='_blank'>BackEnd</a>
+            <a href="https://ssrental.netlify.app/" className='btn btn-primary' target='_blank'>Live</a>
            </div>
            <div>
              <h3>Description :</h3>
@@ -50,32 +50,31 @@ const Project = () => {
             <div className='project__item-image'>
               <img src={IMG3} alt="" />
             </div>
-            <h3>Pricing Cart</h3>
+            <h3>ECOMMERCE</h3>
             <div className='project__item-cta'>
-            <a href="https://github.com/rajshankarM/pricing-cart" className='btn' target='_blank'>GitHub</a>
-            {/* <a href="https://github.com/rajshankarM" className='btn' target='_blank'>GitHub</a> */}
-            <a href="https://dashboardcart.netlify.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
+            <a href="https://github.com/rajshankarM/ECommerce-Frontend" className='btn' target='_blank'>FrontEnd</a>
+            <a href="https://github.com/rajshankarM/ECOMMERCE-BACKEND" className='btn' target='_blank'>BackEnd</a>
+            <a href="https://ecommerce-order.netlify.app/" className='btn btn-primary' target='_blank'>Live</a>
             </div>
             <div>
              <h3>Description :</h3>
-           <p>This pricing cart App created for the user to create read update and delete the items listed and displayed in the UI.
-              This app developed with the help of React JS technology using Hooks and react components.</p>
+           <p>This ECommerce App is developed by Using ReactJs as frontEnd and NodeJS, MongoDB as Backend</p>
            </div>
         </article>
         <article className='project__item'>
             <div className='project__item-image'>
               <img src={IMG4} alt="" />
             </div>
-            <h3>Authentication</h3>
+            <h3>BLOG App</h3>
               <div className='project__item-cta'>
-              <a href="https://github.com/rajshankarM/authentication-frontend" className='btn' target='_blank'>GitHub</a>
-            <a href="https://github.com/rajshankarM/authentication-backend" className='btn' target='_blank'>GitHub</a>
-            <a href="https://authlogin.netlify.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
+              <a href="https://github.com/rajshankarM/blog-app/tree/master/client" className='btn' target='_blank'>FrontEnd</a>
+            <a href="https://github.com/rajshankarM/blog-app/tree/master/api" className='btn' target='_blank'>BackEnd</a>
+            <a href="https://react-node-blog-app.netlify.app/" className='btn btn-primary' target='_blank'>Live</a>
               </div>
               <div>
              <h3>Description :</h3>
-           <p>This Authentication app is designed and developed by technology like ReactJs as front-end, NodeJs as backend and mongo dB as database This particular project is using react-router-Dom, 
-             MaterialUI and Tostify package in Front-end and Using bcrypt, cors, express, jsonwebtoken, mongoose and nodemon in Back-end</p>
+           <p>This Blog app is designed and developed by technology like ReactJs as front-end, NodeJs as backend and mongo dB as database This particular project is using react-router-Dom and  
+             MaterialUI in Front-end and Using Axios, cors, express, mongoose and nodemon in Back-end</p>
            </div>
         </article>
       </div>
