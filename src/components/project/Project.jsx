@@ -11,6 +11,20 @@ const Project = () => {
       <h5>My Recent Work</h5>
       <h2>Project</h2>
 
+        <div className='Credentials'>
+        <h2 className='Credentials-head'>Credentials:  </h2> 
+          <div>
+          <h3>Admin</h3>
+            <p>admin@gmail.com, Password:123456</p>
+          </div>
+            <div>  
+            <h2>User</h2>
+            <p>admin, Password:123456</p>
+            </div>
+        </div>
+
+
+
       <div className="container project__container">
         <article className='project__item'>
             <div className='project__item-image'>
