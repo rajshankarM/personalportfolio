@@ -45,7 +45,7 @@ const Project = () => {
               BackEnd
             </a>
             <a
-              href="https://ecommerce-devshan-app.netlify.app/register"
+              href="https://ecommerce-devshan-app.netlify.app/"
               className="btn btn-primary"
               target="_blank"
             >
