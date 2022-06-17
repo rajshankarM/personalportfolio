@@ -29,6 +29,8 @@ const Project = () => {
             <img src={IMG1} alt="" />
           </div>
           <h3>ECommerce App</h3>
+          <p>Duration: Oct-Nov 2021</p>
+          <br></br>
           <div className="project__item-cta">
             <a
               href="https://github.com/rajshankarM/Ecommerce-Frontend"
@@ -65,6 +67,8 @@ const Project = () => {
             <img src={IMG2} alt="" />
           </div>
           <h3>Booking App</h3>
+          <p>Duration: Feb-Mar 2022</p>
+          <br></br>
           <div className="project__item-cta">
             <a
               href="https://github.com/rajshankarM/Room-Booking-Frontend"
@@ -104,6 +108,8 @@ const Project = () => {
             <img src={IMG3} alt="" />
           </div>
           <h3>Chat App</h3>
+          <p>Duration: Nov-Nov 2021</p>
+          <br></br>
           <div className="project__item-cta">
             <a
               href="https://github.com/rajshankarM/chat-frontend"
@@ -142,6 +148,8 @@ const Project = () => {
             <img src={IMG4} alt="" />
           </div>
           <h3>Blog</h3>
+          <p>Duration: Apr-May 2022</p>
+          <br></br>
           <div className="project__item-cta">
             <a
               href="https://github.com/rajshankarM/blog-frontend"
